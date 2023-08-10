@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Rainbow, Sea, Beach, and Me!"
+excerpt: "A Snapshot taken on July 14th, 2023, from Lookout Point, North Stradbroke Island, Queensland, Australia.<br/><img src='/images/AustraliaNorthIsland_small.jpg'>"
 collection: portfolio
 ---
 
