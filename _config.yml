@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. jing li"
 title_separator          : "-"
 name                     : &name "jing li"
-description              : &description "lecturer at Tianjin University of Technology"
+description              : &description "Tianjin University of Technology"
 url                      : https://vjingli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" 
 repository               : "vjingli.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "  jing li (李晶)"
   avatar           : "20230417profile.jpg"
-  bio              : "lecturer at Tianjin University of Technology"
+  bio              : "Tianjin University of Technology"
   location         : "Tianjin, China"
   employer         :
   pubmed           :
